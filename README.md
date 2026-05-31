@@ -1,6 +1,7 @@
 # empresa_ventas – Sistema de Ventas de Electrodomésticos
 
 Sistema web desarrollado en **PHP + MySQL + HTML/CSS/JS**  
+
 Diseñado para funcionar en **XAMPP** (Windows / macOS / Linux).
 
 ---
