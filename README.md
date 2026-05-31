@@ -1,11 +1,11 @@
-# 📦 empresa_ventas – Sistema de Ventas de Electrodomésticos
+# empresa_ventas – Sistema de Ventas de Electrodomésticos
 
 Sistema web desarrollado en **PHP + MySQL + HTML/CSS/JS**  
 Diseñado para funcionar en **XAMPP** (Windows / macOS / Linux).
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 empresa_ventas/
@@ -28,7 +28,7 @@ empresa_ventas/
 
 ---
 
-## 🚀 Cómo configurar e iniciar el proyecto en XAMPP
+## Cómo configurar e iniciar el proyecto en XAMPP
 
 ### 1. Instalar XAMPP
 
@@ -109,7 +109,7 @@ http://localhost/empresa_ventas/
 
 ---
 
-## 🧪 Cómo probar la subida de PDFs
+## Cómo probar la subida de PDFs
 
 1. Ve a **"Nueva venta"** (menú izquierdo o botón en el dashboard)
 2. Completa: nombre del cliente, teléfono, producto
@@ -124,7 +124,7 @@ http://localhost/empresa_ventas/
 
 ---
 
-## 🔐 Seguridad implementada
+## Seguridad implementada
 
 | Medida                             | Dónde                              |
 |------------------------------------|------------------------------------|
@@ -151,7 +151,7 @@ Definido como `ENUM` en MySQL para garantizar integridad referencial.
 
 ---
 
-## 🗄️ Diagrama de la base de datos
+## Diagrama de la base de datos
 
 ```
 venta
