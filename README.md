@@ -1,4 +1,4 @@
-# empresa_ventas – Sistema de Ventas de Electrodomésticos
+# Sistema de Ventas de Electrodomésticos
 
 Sistema web desarrollado en **PHP + MySQL + HTML/CSS/JS**  
 
